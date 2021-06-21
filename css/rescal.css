@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+/* Extra small devices (phones, 600px and down) 
+@media only screen and (max-width: 600px) {
+  .days div {
+    text-align: center;
+    width: 14.28%;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    transition: all 0.4s;
+    border-shadow: 40px;
+    border-radius: 20px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.2);
+    height: 90px;
+    padding-top: 45px;
+}
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) 
+@media only screen and (min-width: 600px) {
+  .days div {
+    text-align: center;
+    width: 14.28%;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    transition: all 0.4s;
+    border-shadow: 40px;
+    border-radius: 20px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.2);
+    height: 90px;
+    padding-top: 45px;
+}
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) 
+@media only screen and (min-width: 768px) {
+  .days div {
+    text-align: center;
+    width: 14.28%;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    transition: all 0.4s;
+    border-shadow: 40px;
+    border-radius: 20px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.2);
+    height: 90px;
+    padding-top: 45px;
+}
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) 
+@media only screen and (min-width: 992px) {
+  .days div {
+    text-align: center;
+    width: 14.28%;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    transition: all 0.4s;
+    border-shadow: 40px;
+    border-radius: 20px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.2);
+    height: 90px;
+    padding-top: 45px;
+}
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up)
+@media only screen and (min-width: 1200px) {
+
+}

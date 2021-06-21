@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 2566px)
+{
+	.sidenav{
+		height: 850px;
+		width:450px;
+		margin-right: 20px;
+	}
+}@media only screen and (max-width: 1566px)
+{
+	.sidenav{
+		height: 720px;
+	}
+	width:59px;
+}@media only screen and (max-width: 1066px)
+{
+	.sidenav{
+		height: 700px;
+		width:59px;
+	}
+	.sidenav a{
+		visibility: hidden;
+	}
+	.col-4{
+		margin: 3px;
+		height: 98px;
+	}
+}
+@media only screen and (max-width: 768px){
+	.sidenav{
+		height: 650px;
+		padding: 0px 0px 0px 5px;
+	}
+	.sidenav i a{
+		visibility: hidden;
+	}.sidenav i {
+		padding-left: 2px;
+	}	.sidenav a{
+		visibility: hidden;
+		width: 15px;
+	}
+		.sidenav {
+		width: 45px;
+	}
+	.sidenav-box-1{
+		margin-left: 2px;
+	}
+
+}
